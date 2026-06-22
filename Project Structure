@@ -1,0 +1,7 @@
+# Create project folder
+mkdir ai-family-house
+cd ai-family-house
+
+# Create folder structure
+mkdir -p src/types src/lib src/components src/app/dashboard src/app/chat/[id]
+mkdir -p src/app/api/family/create src/app/api/chat/generate src/app/api/memory/store src/app/api/memory/query
